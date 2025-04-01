@@ -67,7 +67,7 @@ function Feature() {
             </div>
             <div className="relative w-full h-full">
               <img 
-                src="public/chat-example.png"
+                src="/chat-example.png"
                 alt="AI Chat Interface Example"
                 className="rounded-xl w-full h-full object-contain shadow-2xl border border-slate-700/50"
               />

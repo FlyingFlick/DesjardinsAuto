@@ -362,7 +362,7 @@ function App() {
                 </div>
                 <div className="mb-6 rounded-lg px-10 overflow-hidden">
                   <img
-                    src="/public/Solution1.png"
+                    src="/Solution1.png"
                     alt="Global Availability"
                     className="w-fit h-full object-cover rounded-xl"
                   />
@@ -382,7 +382,7 @@ function App() {
                 </div>
                 <div className="mb-6 rounded-lg px-10 overflow-hidden">
                   <img
-                    src="/public/Solution2.png"
+                    src="/Solution2.png"
                     alt="Global Availability"
                     className="w-fit h-full object-cover rounded-xl"
                   />
@@ -407,7 +407,7 @@ function App() {
                 </div>
                 <div className="mb-6 rounded-lg px-10 overflow-hidden">
                   <img
-                    src="/public/Solution3.png"
+                    src="/Solution3.png"
                     alt="Global Availability"
                     className="w-fit h-full object-cover rounded-xl"
                   />
