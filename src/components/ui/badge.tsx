@@ -1,4 +1,5 @@
-import { cn } from "@/lib/utils";
+import React, { useState, useEffect } from 'react';
+import { cn } from "@/lib/utils.ts";
 
 interface BadgeProps {
   variant?: "default" | "outline";
