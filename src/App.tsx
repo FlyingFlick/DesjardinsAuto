@@ -186,7 +186,7 @@ function App() {
                   <div className="mt-2 text-gray-300">
                     <p>Desjardins Automation</p>
                     <p>Phone: (330) 805-1563</p>
-                    <p>Email: Sean@DesjardinsAutomation.com</p>
+                    <p>Email: Sean.J@DesjardinsAutomation.com</p>
                   </div>
                 </div>
               </div>
@@ -306,7 +306,7 @@ function App() {
                   <div className="mt-2 text-gray-300">
                     <p>Desjardins Automation</p>
                     <p>Phone: (330) 805-1563</p>
-                    <p>Email: Sean@DesjardinsAutomation.com</p>
+                    <p>Email: Sean.J@DesjardinsAutomation.com</p>
                   </div>
                 </div>
               </div>
@@ -781,9 +781,9 @@ function App() {
                   href: 'tel:3308051563',
                 },
                 {
-                  name: 'Sean@DesjardinsAutomation.com',
+                  name: 'Sean.J@DesjardinsAutomation.com',
                   Icon: IconMail,
-                  href: 'mailto:Sean@DesjardinsAutomation.com',
+                  href: 'mailto:Sean.J@DesjardinsAutomation.com',
                 },
               ],
               className: 'pr-16',
