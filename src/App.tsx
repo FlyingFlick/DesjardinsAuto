@@ -585,7 +585,7 @@ function App() {
                 <div className="absolute -inset-1 rounded-lg bg-gradient-to-r from-blue-600 to-blue-400 opacity-50 blur transition duration-200 group-hover:opacity-75"></div>
                 <div className="relative aspect-square overflow-hidden rounded-lg flex flex-col">
                   <img
-                    src="/public/AIMe.png"
+                    src="/AIMe.png"
                     alt="Professional headshot"
                     className="object-cover w-full h-full transition-transform duration-500 group-hover:scale-110"
                   />
@@ -598,7 +598,7 @@ function App() {
                 <div className="absolute -inset-1 rounded-lg bg-gradient-to-r from-blue-400 to-blue-600 opacity-50 blur transition duration-200 group-hover:opacity-75"></div>
                 <div className="relative aspect-square overflow-hidden rounded-lg flex flex-col">
                   <img
-                    src="/public/Me.jpg"
+                    src="/Me.jpg"
                     alt="AI-generated portrait"
                     className="object-cover w-full h-full transition-transform duration-500 group-hover:scale-110"
                   />
