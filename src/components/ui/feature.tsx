@@ -66,11 +66,11 @@ function Feature() {
                 Competitor's Chat Example
               </Badge>
             </div>
-            <div className="relative h-full">
+            <div className="relative max-w-[350px] rounded-xl border border-slate-700/50">
               <img 
                 src="/chat-example.png"
                 alt="AI Chat Interface Example"
-                className="rounded-xl h-full w-100 shadow-2xl border border-slate-700/50"
+                className="rounded-xl h-full shadow-2xl object-scale-down"
               />
             </div>
           </div>
