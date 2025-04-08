@@ -167,6 +167,13 @@ export function BackgroundCircles({
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, ease: "easeOut" }}
             >
+                <div className="flex justify-center mb-8">
+                    <img 
+                        src="/logo.png" 
+                        alt="Desjardins Automation Logo" 
+                        className="h-24 w-auto"
+                    />
+                </div>
                 <h1
                     className={clsx(
                         "text-5xl font-bold tracking-tight md:text-7xl",

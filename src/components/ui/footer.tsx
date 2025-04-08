@@ -44,8 +44,12 @@ export const Footer = React.forwardRef<HTMLDivElement, FooterProps>(
         <div className="max-w-screen-xl mx-auto px-4 lg:px-8">
           <div className="relative grid grid-cols-1 lg:grid-cols-12">
             <div className="lg:col-span-4">
-              <a href="#" className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-blue-500 to-blue-600">
-                {brand.name}
+            <a href="#" className="block">
+                <img 
+                  src="/footerlogo.png" 
+                  alt="Desjardins Automation Logo" 
+                  className="h-12 w-auto"
+                />
               </a>
               <p className="text-sm text-foreground/60">
                 {brand.description}

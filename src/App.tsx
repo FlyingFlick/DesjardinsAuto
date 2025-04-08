@@ -709,7 +709,7 @@ function App() {
                   className="group relative px-12 py-4 text-xl font-semibold text-white bg-gradient-to-br from-blue-600/80 via-blue-700/80 to-blue-800/80 rounded-xl overflow-hidden transition-all duration-175 hover:from-blue-500/90 hover:via-blue-600/90 hover:to-blue-700/90 hover:scale-105 hover:shadow-xl shadow-lg backdrop-blur-sm border border-white/10"
                 >
                   <div className="flex items-center justify-center space-x-3">
-                    <span>Schedule Your Call</span>
+                    <span>Book a Demo</span>
                     <IconChevronRight className="w-8 h-8 transform group-hover:translate-x-1 transition-transform duration-300" />
                   </div>
                 </button>

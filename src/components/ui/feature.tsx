@@ -70,7 +70,7 @@ function Feature() {
               <img 
                 src="/chat-example.png"
                 alt="AI Chat Interface Example"
-                className="rounded-xl h-full shadow-2xl border border-slate-700/50"
+                className="rounded-xl h-full w-100 shadow-2xl border border-slate-700/50"
               />
             </div>
           </div>
