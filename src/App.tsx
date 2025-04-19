@@ -340,11 +340,7 @@ function App() {
               My Solution: Integrated 24/7 Customer Engagement
               <div className="mt-4">
                 <a
-                  href="#"
-                  onClick={(e) => {
-                    e.preventDefault();
-                    setShowDemoModal(true);
-                  }}
+                  href="https://demo.desjardinsautomation.com"
                   className="inline-flex items-center gap-2 text-lg text-blue-400 hover:text-blue-300"
                 >
                   <IconBuildingStore className="w-5 h-5" />
@@ -690,11 +686,7 @@ function App() {
               </p>
               <div className="flex flex-col sm:flex-row justify-center items-center gap-6">
                 <a
-                  href="#"
-                  onClick={(e) => {
-                    e.preventDefault();
-                    setShowDemoModal(true);
-                  }}
+                  href="https://demo.desjardinsautomation.com"
                   className="group relative px-12 py-4 text-xl font-semibold text-white bg-gradient-to-br from-slate-600/80 via-slate-700/80 to-slate-800/80 rounded-xl overflow-hidden transition-all duration-175 hover:from-slate-500/90 hover:via-slate-600/90 hover:to-slate-700/90 hover:scale-105 hover:shadow-xl shadow-lg backdrop-blur-sm border border-white/10"
                 >
                   <div className="flex items-center justify-center space-x-3">
